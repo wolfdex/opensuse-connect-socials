@@ -1,2 +1,3 @@
-# opensuse connect-socials
-satic social tree page for oS
+# openSUSE connect-socials
+static social tree page for oS connect.opensuse.org
+
